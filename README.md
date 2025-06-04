@@ -14,13 +14,6 @@ I’m a passionate **Lua Scripter** focused on **Roblox exploit development**. I
 
 ---
 
-## 🚀 Featured Projects
-
-- **[Project Name 1](#)**: Brief description or “My latest Roblox exploit project.”
-- **[Project Name 2](#)**: Brief description or “A tool to streamline Lua scripting.”
-- *Want your project featured? Let me know!*
-
----
 
 ## 📚 Skills
 
