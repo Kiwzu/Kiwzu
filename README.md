@@ -1,19 +1,18 @@
-# 👋 Hi there, I’m Kiwzu
+# 👋 Hi, I’m Kiwzu
 
 Welcome to my GitHub!  
-I’m a passionate **Lua Scripter** focused on **Roblox exploit development**. I love pushing the boundaries of what’s possible within the Roblox ecosystem and building creative tools for the community.
+I’m a passionate **Lua Scripter** specializing in **Roblox exploit development**. I enjoy pushing the boundaries of the Roblox platform and building creative tools for the community.
 
 ---
 
 ## 💻 About Me
 
-- 🛠️ **Expertise:** Lua scripting, Roblox exploit creation, reverse engineering, and tool development.
+- 🛠️ **Expertise:** Lua scripting, Roblox exploit creation, reverse engineering, and tool development
 - 🎮 **Platform:** Roblox (client & server-side scripting)
-- 🔍 **Always Exploring:** New Roblox vulnerabilities, scripting tricks, and ways to empower scripters.
-- ⚡ **Philosophy:** Learning by doing, breaking, and rebuilding.
+- 🔍 **Interests:** Exploring new Roblox vulnerabilities, scripting techniques, and empowering scripters
+- ⚡ **Philosophy:** Learning by experimenting, breaking, and rebuilding
 
 ---
-
 
 ## 📚 Skills
 
@@ -22,27 +21,27 @@ I’m a passionate **Lua Scripter** focused on **Roblox exploit development**. I
 - Reverse Engineering
 - Debugging & Obfuscation
 - UI Scripting (Roblox GUIs)
-- Always learning more!
+- Always learning and improving!
 
 ---
 
 ## 🌐 Connect
 
-- Discord: `kiwzu9` *(add yours if you want!)*
-- YouTube: [[Vc](https://www.youtube.com/@VCPlusOntop)](#) *(optional)*
-- Website: [[Script For Sale](https://vcplus.rexzy.xyz/home)](#) *(optional)*
+- Discord: `kiwzu9`
+- YouTube: [VCPlusOntop](https://www.youtube.com/@VCPlusOntop)
+- Website: [Script For Sale](https://vcplus.rexzy.xyz/home)
 
 ---
 
 ## 🧩 Fun Facts
 
-- I love exploring Roblox’s under-the-hood mechanics.
-- Always open to collabs or sharing scripting tricks.
+- I love exploring Roblox’s internal mechanics
+- Open to collaborations and sharing scripting tips
 - I believe in learning by experimentation—break things, fix them, repeat!
 
 ---
 
-> ⭐️ **Feel free to check out my projects, fork something cool, or reach out if you want to collaborate!**
+> ⭐️ **Check out my projects, fork something interesting, or reach out if you want to collaborate!**
 
 ---
 
